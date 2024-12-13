@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BootScene.unity
+    guid: ec3c2039297706647abba05ea2752bf4
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: e71a0c1733fbb164ba793af906a788c6
+  - enabled: 1
+    path: Assets/Scenes/Onboarding.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: d01c86f3a7b707e409f08518f108a876
+  - enabled: 1
+    path: Assets/Scenes/EscapeFromFireScene.unity
+    guid: 9354d679045b841458abb2ae1e0a0561
+  - enabled: 1
+    path: Assets/Scenes/PickTheFruitScene.unity
+    guid: de6fd45432606834c9b013fc1a925261
+  - enabled: 1
+    path: Assets/Scenes/MemoriScene.unity
+    guid: d8727f2cf43098e4e9ce65b25a1a86c8
+  m_configObjects: {}
